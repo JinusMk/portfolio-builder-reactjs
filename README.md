@@ -4,8 +4,6 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://jinusmk.github.io/portfolio-builder)
-
 [See Live](https://jinusmk.github.io/portfolio-builder)
 
 ## Instructions
