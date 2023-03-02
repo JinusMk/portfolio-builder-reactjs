@@ -1,5 +1,5 @@
 const header = {
-  homepage: "https://jinusmk.github.io/portfolio-builder",
+  homepage: "https://jinusmk.github.io/portfolio-builder-reactjs",
   title: "JS",
 };
 

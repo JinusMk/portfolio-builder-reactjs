@@ -2,7 +2,7 @@
   "name": "portfolio-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jinusmk.github.io/portfolio-builder",
+  "homepage": "https://jinusmk.github.io/portfolio-builder-reactjs",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",

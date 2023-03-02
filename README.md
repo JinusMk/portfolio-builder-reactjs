@@ -4,7 +4,7 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ## Preview
 
-[See Live](https://jinusmk.github.io/portfolio-builder)
+[See Live](https://jinusmk.github.io/portfolio-builder-reactjs)
 
 ## Instructions
 
@@ -48,7 +48,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://jinusmk.github.io/portfolio-builder"`
+`"homepage": "https://jinusmk.github.io/portfolio-builder-reactjs"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
