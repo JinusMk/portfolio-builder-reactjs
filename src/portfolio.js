@@ -54,7 +54,7 @@ const skills = [
   "Git",
   "CI/CD",
   "Jest",
-  "Enzyme",
+  "React testing library",
 ];
 
 const contact = {
